@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Rhetoric"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ]
+  ],
+  "legacy_uid": "d4a3000d-41ab-bd13-8e2c-18c65c967b08",
+  "instructors": {
+    "content": [
+      "83cb92c4-edff-335d-ffcc-fde624818975"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "813a78a1-f2b6-2c03-d1a0-6303aa2e2043",
+    "website": "21w-747-classical-rhetoric-and-modern-political-discourse-fall-2009"
+  },
+  "course_title": "Classical Rhetoric and Modern Political Discourse",
+  "course_description": "This course is an introduction to the history, theory, practice, and implications of rhetoric, the art and craft of persuasion through\n\n*   Analyzing persuasive texts and speeches\n*   Creating persuasive texts and speeches\n\nThrough class discussions, presentations, and written assignments, you will get to practice your own rhetorical prowess. Through the readings, you'll also learn some ways to make yourself a more efficient reader, as you turn your analytical skills on the texts themselves. This combination of reading, speaking, and writing will help you succeed in:\n\n*   learning\n*   to read and think critically\n*   techniques of rhetorical analysis\n*   techniques of argument\n*   to enhance your written and oral discourse with appropriate figures of speech\n*   some techniques of oral presentation and the use of visual aids and visual rhetoric.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.747",
+  "course_image_thumbnail": {
+    "content": "fb51091b-c2eb-4693-51d0-e652d59c21ba",
+    "website": "21w-747-classical-rhetoric-and-modern-political-discourse-fall-2009"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "840c3dd9-b6d3-4c9d-aa44-e33fc321b71f",
+  "site_short_id": "21w.747-fall-2009",
+  "site_url_path": "courses/21w-747-classical-rhetoric-and-modern-political-discourse-fall-2009",
+  "title": "Course Metadata"
+}
