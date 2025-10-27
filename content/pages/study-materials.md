@@ -5,8 +5,6 @@ description: This section provides study materials on classical rhetoric, modern
   rhetoric, Churchill speeches, speeches and debates, Les Perelman and The SAT Writing
   Essay, health care, torture, and classroom Lincoln Douglas debates.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -22,41 +20,41 @@ Reading Notes for Cicero De Inventione & Roe v Wade ({{% resource_link "5d7f8cd1
 
 Background for Lincoln's Cooper Union Speech ({{% resource_link "27dd6b1e-8312-c3d7-0808-0003fc02b1a1" "PDF" %}})
 
-LaGesse, David "[The 1952 Checkers Speech: The Dog Carries the Day for Richard Nixon](http://www.usnews.com/articles/news/politics/2008/01/17/the-dog-carries-the-day-for-nixon.html)." *U.S. News*, January 17, 2008.
+LaGesse, David "{{% resource_link "73a7df91-c0f6-4369-b561-e6bd9222c16d" "The 1952 Checkers Speech: The Dog Carries the Day for Richard Nixon" %}}." *U.S. News*, January 17, 2008.
 
 ## Examples About Speeches and Writing
 
 Basler, Roy P. "Cooper Union Address." February 27, 1860.
 
-National Park Service, U.S. Department of the Interior. "[Second Debate: Freeport, Illinois](http://www.nps.gov/liho/historyculture/debate2.htm)".
+National Park Service, U.S. Department of the Interior. "{{% resource_link "fd7821e9-077c-42cc-98e3-4b03b6791090" "Second Debate: Freeport, Illinois" %}}".
 
-[Best Speeches of Barack Obama Through his 2009 Inauguration](http://obamaspeeches.com/091-Floor-Statement-on-the-Habeas-Corpus-Amendment-Obama-Speech.htm).
+{{% resource_link "b28fe31d-8f5f-495c-8dbe-b5c8017ad66c" "Best Speeches of Barack Obama Through his 2009 Inauguration" %}}.
 
-Organizing for America. "[Remarks of Senator Barack Obama: 'A More Perfect Union](https://americanrhetoric.com/speeches/barackobamaperfectunion.htm)'." Philadelphia, PA, March 18, 2008.
+Organizing for America. "{{% resource_link "010a4dc7-143c-4df0-bcd1-b3340807a730" "Remarks of Senator Barack Obama: 'A More Perfect Union" %}}'." Philadelphia, PA, March 18, 2008.
 
-Goodridge, Elisabeth, and Jackson Tom. "[Obama's Health Care Address to Congress](http://www.nytimes.com/interactive/2009/09/10/us/politics/20090910-obama-health.html)." *The New York Times*, September 10, 2009.
+Goodridge, Elisabeth, and Jackson Tom. "{{% resource_link "7feb9a51-c0e0-474b-af2c-159582fde4e3" "Obama's Health Care Address to Congress" %}}." *The New York Times*, September 10, 2009.
 
 Luther King, Martin, Jr., and the Global Freedom Struggle. "Eulogy for the Martyred Children." September 18, 1963.
 
-Hooker Richard, Ancient Greece. "[Thucydides: Pericle's Funeral Oration](http://hrlibrary.umn.edu/education/thucydides.html)." June 6, 1999.
+Hooker Richard, Ancient Greece. "{{% resource_link "fdf9aee9-9c1b-45b2-b149-297429b1a139" "Thucydides: Pericle's Funeral Oration" %}}." June 6, 1999.
 
-Lincoln, Abraham. "[Gettysberg Address](http://www.americanrhetoric.com/speeches/gettysburgaddress.htm)." November 19, 1863.
+Lincoln, Abraham. "{{% resource_link "bce05e8d-79cd-4e2f-b59e-0bfe307182cf" "Gettysberg Address" %}}." November 19, 1863.
 
 Luther King, Martin, Jr., and the Global Freedom Struggle. "I Have a Dream, Address at March on Washington for Jobs and Freedom." August 28, 1963.
 
-Nixon, Richard M. "[Checkers](http://americanrhetoric.com/speeches/richardnixoncheckers.html)." September 23, 1952.
+Nixon, Richard M. "{{% resource_link "55c08fc4-18c3-49d3-9bdf-5a7bec75afda" "Checkers" %}}." September 23, 1952.
 
-Lincoln, Abraham. "[Second Inaugural Address](http://www.americanrhetoric.com/speeches/abrahamlincolnsecondinauguraladdress.htm)." March 4, 1865.
+Lincoln, Abraham. "{{% resource_link "0ecc0269-4a21-47f1-9cd8-51e478f40d35" "Second Inaugural Address" %}}." March 4, 1865.
 
-Obama, Barack. "[Eulogy for Ted Kennedy](http://www.americanrhetoric.com/speeches/barackobama/barackobamaeulogytedkennedy.htm)." August 29, 2009.
+Obama, Barack. "{{% resource_link "cce8e412-f800-49d3-ad9a-d6ab9addd252" "Eulogy for Ted Kennedy" %}}." August 29, 2009.
 
-Everett, Edward. "[Edward Everett's Gettysburg Address](http://www.gdg.org/Links/everet.html)."
+Everett, Edward. "{{% resource_link "6c351482-5424-43ba-916d-a2891b46f79d" "Edward Everett's Gettysburg Address" %}}."
 
-Phillips, Macon, and The White House Blog. "[President Barack Obama's Inaugural Address](https://obamawhitehouse.archives.gov/the-press-office/2013/01/21/inaugural-address-president-barack-obama)." January 21, 2009.
+Phillips, Macon, and The White House Blog. "{{% resource_link "6f74f022-7299-43ba-b3ea-56c568fa26a4" "President Barack Obama's Inaugural Address" %}}." January 21, 2009.
 
-Wilson, Joe. "Stand with Joe at JoeWilsonforCongress.com." September 10, 2009. YouTube. Accessed March 31, 2010. [http://www.youtube.com/watch?v=ztnFV13zEao](http://www.youtube.com/watch?v=ztnFV13zEao)
+Wilson, Joe. "Stand with Joe at JoeWilsonforCongress.com." September 10, 2009. YouTube. Accessed March 31, 2010. {{% resource_link "4d9f105d-b997-40d4-9f8d-b06d0ce84258" "http://www.youtube.com/watch?v=ztnFV13zEao" %}}
 
-[G.O.P. Responds to Obama on Health Care](https://www.nytimes.com/video/us/politics/1247464492516/g-o-p-responds-to-obama-on-health-care.html). *The New York Times*, September 10, 2009.
+{{% resource_link "4a4f3e72-cc95-449a-8990-97d3626ef593" "G.O.P. Responds to Obama on Health Care" %}}. *The New York Times*, September 10, 2009.
 
 ## Articles by Les Perelman on Classical and Medieval Rhetoric
 
@@ -66,27 +64,27 @@ Perelman, Les. The Two Rhetorics: Design and Interpretation in Engineering and H
 
 ## Churchill Speeches
 
-House of Commons. "[We Shall Fight on the Beaches](https://www.winstonchurchill.org/resources/speeches/1940-the-finest-hour/we-shall-fight-on-the-beaches)." June 4, 1940.
+House of Commons. "{{% resource_link "7f5ed82f-2552-448c-b614-c7efb3f0b7e7" "We Shall Fight on the Beaches" %}}." June 4, 1940.
 
 ## Speeches and Debates
 
-Maxpowers518. "Nixon's "Checkers Speech" - Part 1 of 2." August 15, 2008. YouTube. Accessed March 31, 2010. [http://www.youtube.com/watch?v=S4UEv_jjPL0](http://www.youtube.com/watch?v=S4UEv_jjPL0)
+Maxpowers518. "Nixon's "Checkers Speech" - Part 1 of 2." August 15, 2008. YouTube. Accessed March 31, 2010. {{% resource_link "865ae624-b542-472c-bd64-c62e877f3dca" "http://www.youtube.com/watch?v=S4UEv_jjPL0" %}}
 
-———. "Nixon's "Checkers Speech" - Part 2 of 2." August 15, 2008. YouTube. Accessed March 31, 2010. [http://www.youtube.com/watch?v=XhQD2UFCIbY](http://www.youtube.com/watch?v=XhQD2UFCIbY)
+———. "Nixon's "Checkers Speech" - Part 2 of 2." August 15, 2008. YouTube. Accessed March 31, 2010. {{% resource_link "34bb6a31-40cb-4e3c-94fa-e7d1c4019823" "http://www.youtube.com/watch?v=XhQD2UFCIbY" %}}
 
-Election 2008. "[The Vice-Presidential Debate](http://elections.nytimes.com/2008/president/debates/vice-presidential-debate.html)." *The New York Times*, August 10, 2009.
+Election 2008. "{{% resource_link "072e849d-de4c-49cf-8099-b02a0374931d" "The Vice-Presidential Debate" %}}." *The New York Times*, August 10, 2009.
 
-Organizing for America. "[Remarks of Senator Barack Obama: The American Promise (Democratic Convention)](https://teacher.depaul.edu/Skill-Focused-Readings/SenatorBarackObama--TheAmericanPromise.pdf)." August 28, 2008.
+Organizing for America. "{{% resource_link "7bdea439-a77f-43c6-a2b5-4d30b59c5695" "Remarks of Senator Barack Obama: The American Promise (Democratic Convention)" %}}." August 28, 2008.
 
-Maxpowers518. "JFK's opening statement - 1960 debate." August 15, 2008. YouTube. Accessed March 31, 2010. [http://www.youtube.com/watch?v=_xWW4WmBtk8](http://www.youtube.com/watch?v=_xWW4WmBtk8)
+Maxpowers518. "JFK's opening statement - 1960 debate." August 15, 2008. YouTube. Accessed March 31, 2010. {{% resource_link "86ef8461-d52e-41e9-a3ef-aadb7393a171" "http://www.youtube.com/watch?v=_xWW4WmBtk8" %}}
 
-———. "JFK's opening statement - 1960 debate." August 15, 2008. YouTube. Accessed March 31, 2010. [http://www.youtube.com/watch?v=ocdccxLuIrQ&feature=related](http://www.youtube.com/watch?v=ocdccxLuIrQ&feature=related)
+———. "JFK's opening statement - 1960 debate." August 15, 2008. YouTube. Accessed March 31, 2010. {{% resource_link "b928782a-c86e-4f14-b6cc-5ab2885354b7" "http://www.youtube.com/watch?v=ocdccxLuIrQ&feature=related" %}}
 
-Election 2008. "[The Third Presidential Debate](http://elections.nytimes.com/2008/president/debates/third-presidential-debate.html)." *The New York Times*, August 11, 2009.
+Election 2008. "{{% resource_link "ee024eb1-31b5-46e9-99a7-e5070de942eb" "The Third Presidential Debate" %}}." *The New York Times*, August 11, 2009.
 
-Prelinger Archives. "[1960 Kennedy-Nixon Debate (Part I) (1960)](http://www.archive.org/details/1960_kennedy-nixon_1)." March 10, 2001.
+Prelinger Archives. "{{% resource_link "18ed8bfe-2780-48ce-8b45-5c9170c04076" "1960 Kennedy-Nixon Debate (Part I) (1960)" %}}." March 10, 2001.
 
-———. "[1960 Kennedy-Nixon Debate (Part II) (1960)](http://www.archive.org/details/1960_kennedy-nixon_2)." March 10, 2001.
+———. "{{% resource_link "eaa165a1-82df-4350-bf8d-f25893c796d1" "1960 Kennedy-Nixon Debate (Part II) (1960)" %}}." March 10, 2001.
 
 ## Les Perelman and The SAT Writing Essay
 
@@ -94,9 +92,9 @@ Winerip, Michael. "ON EDUCATION; SAT Essay Test Rewards Length And Ignores Error
 
 "The Beauty of Brevity." *Chicago Tribune*, May 6, 2005.
 
-Linda, Wertheimer. "[MIT Professor Finds Fault with SAT Essay](http://www.npr.org/templates/story/story.php?storyId=4634566)" *NPR*, August 3, 2010.
+Linda, Wertheimer. "{{% resource_link "5b2a9aea-1e57-404f-a74c-9d4404aacfd0" "MIT Professor Finds Fault with SAT Essay" %}}" *NPR*, August 3, 2010.
 
-Inside Higher Ed. "[Fooling the College Board](http://www.insidehighered.com/news/2007/03/26/writing)." March 26, 2007.
+Inside Higher Ed. "{{% resource_link "14638fa1-7b02-4f07-92ac-06947cb52ae5" "Fooling the College Board" %}}." March 26, 2007.
 
 Perelman, Les. "New SAT: Write Long, Badly and Prosper." *Los Angeles Times*, May 29, 2005.
 
@@ -104,35 +102,35 @@ Perelman, Les. "New SAT: Write Long, Badly and Prosper." *Los Angeles Times*, Ma
 
 ## Health Care
 
-Jacoby Jeff. "[Mandatory Insurance: Yes, Its a Tax](http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/09/23/mandatory_insurance_yes_its_a_tax/)." *The Boston Globe*, September 23, 2009.
+Jacoby Jeff. "{{% resource_link "f145bf6e-28b1-43f0-b70e-6e65522cccb3" "Mandatory Insurance: Yes, Its a Tax" %}}." *The Boston Globe*, September 23, 2009.
 
-———. "[What 'Right' to Health Care?](http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/09/13/what_right_to_health_care/)" *The Boston Globe*, September 13, 2009.
+———. "{{% resource_link "71670bb5-6017-415e-936a-73ea84c14e7e" "What 'Right' to Health Care?" %}}" *The Boston Globe*, September 13, 2009.
 
-Editorial. "[World's Best Medical Care?](http://query.nytimes.com/gst/fullpage.html?res=9501E3D91330F931A2575BC0A9619C8B63&scp=1&sq=%22World%27s+Best+Medical+Care%22&st=nyt)" *The New York Times*, April 12, 2007.
+Editorial. "{{% resource_link "adc36905-d234-45ad-b485-41a39a46e21e" "World's Best Medical Care?" %}}" *The New York Times*, April 12, 2007.
 
-Bates, Daniel. "[Paedophile Pensioner Given Viagra on the NHS - Despite String of Attacks on Children](http://www.dailymail.co.uk/news/article-1207722/Paedophile-attacked-11-year-old-girl-gets-Viagra-NHS--despite-previous-convictions.html)." *Mail Online*, August 20, 2009.
+Bates, Daniel. "{{% resource_link "087149ae-acfe-4fb5-bb41-592279ad97d8" "Paedophile Pensioner Given Viagra on the NHS - Despite String of Attacks on Children" %}}." *Mail Online*, August 20, 2009.
 
-Osborne, Barry. "[Health Care Fact Check: Best in the world?](http://www.denverpost.com/nationalpolitics/ci_13203648)" *The Denver Post*, August 26, 2009.
+Osborne, Barry. "{{% resource_link "8ea592e3-1b51-4eef-be18-eb3e76ccec42" "Health Care Fact Check: Best in the world?" %}}" *The Denver Post*, August 26, 2009.
 
-Blankley, Tony. "[Beware of Comprehensive Health Care Reform](http://townhall.com/columnists/TonyBlankley/2009/07/22/beware_of_comprehensive_health_care_reform?page=full)." July 22, 2009
+Blankley, Tony. "{{% resource_link "c2e31bac-3fa1-4cfc-87b1-b149ce1d1f7c" "Beware of Comprehensive Health Care Reform" %}}." July 22, 2009
 
-Shrum, Robert. "[Smear Britannia: Conservatives Open a New Front on Health Care](http://www.theweek.com/articles/502689/smear-britannia-conservatives-open-new-front-health-care)." August 17, 2009.
+Shrum, Robert. "{{% resource_link "468de0b9-2052-4e11-adaf-e4fff200be80" "Smear Britannia: Conservatives Open a New Front on Health Care" %}}." August 17, 2009.
 
-WHO/OECD Health Data 2009. "[The Brutal Truth About Americas Healthcare](http://www.independent.co.uk/news/world/americas/the-brutal-truth-about-americarsquos-healthcare-1772580.html)." *The Independent*, August 15, 2009.
+WHO/OECD Health Data 2009. "{{% resource_link "8b0f4bdf-5f32-481c-a737-1db6eab5e2c5" "The Brutal Truth About Americas Healthcare" %}}." *The Independent*, August 15, 2009.
 
-Kristof, Nicholas D. "[Until Medical Bills Do Us Part](http://www.nytimes.com/2009/08/30/opinion/30kristof.html)." *The New York Times*, April 29, 2009.
+Kristof, Nicholas D. "{{% resource_link "e528f3ad-632a-482f-8797-7da3e5efc944" "Until Medical Bills Do Us Part" %}}." *The New York Times*, April 29, 2009.
 
-Krugman, Paul. "[Health Care Realities](http://www.nytimes.com/2009/07/31/opinion/31krugman.html)." *The New York Times*, July 30, 2009.
+Krugman, Paul. "{{% resource_link "21ae7486-ff3a-4f5f-b683-55b295ee9442" "Health Care Realities" %}}." *The New York Times*, July 30, 2009.
 
-———. "[The Swiss Menace](http://www.nytimes.com/2009/08/17/opinion/17krugman.html)." *The New York Times*, August 16, 2009.
+———. "{{% resource_link "e2650686-8c82-479a-8d17-389879543a5a" "The Swiss Menace" %}}." *The New York Times*, August 16, 2009.
 
-Goldhill, David. "[How American Health Care Killed My Father](http://www.theatlantic.com/magazine/archive/2009/09/how-american-health-care-killed-my-father/7617/)." *Atlantic Magazine*, September 2009.
+Goldhill, David. "{{% resource_link "ac8db939-4014-4fe1-9cb8-cb475ef79d0f" "How American Health Care Killed My Father" %}}." *Atlantic Magazine*, September 2009.
 
-Gabel, Jon R. ''[Congress's Health Care Numbers Dont Add Up](http://www.nytimes.com/2009/08/26/opinion/26gabel.html)." *The New York Times*, August 25, 2009.
+Gabel, Jon R. ''{{% resource_link "ad302008-7621-4a96-b399-583dd4cdeb9e" "Congress's Health Care Numbers Dont Add Up" %}}." *The New York Times*, August 25, 2009.
 
-Murdock, Deroy. "[Government Medicine Kills II](http://www.nationalreview.com/article/228027/government-medicine-kills-deroy-murdock)." *National Review Online*, October 7, 2009.
+Murdock, Deroy. "{{% resource_link "26550851-b905-42e3-92ac-dae03f25ae6d" "Government Medicine Kills II" %}}." *National Review Online*, October 7, 2009.
 
-Halderman, Linda. "[Unhealthy Health Care](http://www.nationalreview.com/article/222518/unhealthy-health-care-linda-halderman)." *National Review Online*, October 19, 2007.
+Halderman, Linda. "{{% resource_link "95f4baac-adba-4ab8-897f-2b60e06aa1a5" "Unhealthy Health Care" %}}." *National Review Online*, October 19, 2007.
 
 Dickinson, Tim. "The Lie Machine." *Rollingstone.com*, September 23, 2009.
 
@@ -140,7 +138,7 @@ Dickinson, Tim. "The Lie Machine." *Rollingstone.com*, September 23, 2009.
 
 Human Rights Watch. "Summary of International and U.S. Law Prohibiting Torture and Other Ill-treatment of Persons in Custody." May 24, 2004.
 
-Rushdie, Salman. "[Ugly Phrase Conceals an Uglier Truth](http://www.smh.com.au/news/opinion/ugly-phrase-conceals-an-uglier-truth/2006/01/09/1136771496819.html)." *The Sydney Morning Herald*, January 10, 2006.
+Rushdie, Salman. "{{% resource_link "f07cdf41-60fb-4180-ab21-26b6b60c776c" "Ugly Phrase Conceals an Uglier Truth" %}}." *The Sydney Morning Herald*, January 10, 2006.
 
 "International: Is *Torture* Ever Justified?; Terrorism and Civil Liberty." *The Economist* 384, no. 8547 (2007): 76.
 
