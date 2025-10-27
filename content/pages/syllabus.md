@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, requirements, grading, a statement on plagiarism, and the schedule
   of lecture topics, class activities, and assignment due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -167,7 +165,7 @@ Class discussions along with peer and group work; in-class workshops; regular at
 MIT Literature Statement on Plagiarism
 --------------------------------------
 
-Plagiarism — use of another's intellectual work without acknowledgement — is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://writing.mit.edu/wcc) and the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Plagiarism — use of another's intellectual work without acknowledgement — is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "9cc12efb-3fc9-460e-9525-a24b73bb78ac" "Writing and Communication Center" %}} and the {{% resource_link "47b08c33-aa1d-4604-b157-b479789539e9" "MIT Web site on Plagiarism" %}}.
 
 Calendar
 --------
