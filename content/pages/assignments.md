@@ -12,16 +12,16 @@ uid: de9dcf0c-3c8b-7d1b-9b94-b8ae7e29284f
 ---
 Follow the following guidelines from the Harvard University Writing Center for your writing assignments:
 
-- [Overview of the Academic Essay](http://www.fas.harvard.edu/~wricntr/documents/Overvu.html)
-- [Essay Structure](http://www.fas.harvard.edu/~wricntr/documents/Structure.html)
-- [Developing a Thesis](http://www.fas.harvard.edu/~wricntr/documents/Thesis.html)
-- [Beginning the Academic Essay](http://www.fas.harvard.edu/~wricntr/documents/Begin.html)
-- [Outlining](http://www.fas.harvard.edu/~wricntr/documents/Outlining.html)
-- [Counterargument](http://www.fas.harvard.edu/~wricntr/documents/Counterarg.html)
-- [Summary](http://www.fas.harvard.edu/~wricntr/documents/Summary.html)
-- [How to Write a Comparative Analysis](http://www.fas.harvard.edu/~wricntr/documents/CompAnalysis.html)
-- [Conclusions](https://writingcenter.fas.harvard.edu/conclusions)
-- [Revising the Draft](https://writingcenter.fas.harvard.edu/pages/strategies-essay-writing)
+- {{% resource_link "c89af9c8-ecc8-4876-bde5-4d35d565f9fd" "Overview of the Academic Essay" %}}
+- {{% resource_link "d568f284-93d1-4374-a6b2-b53c617c8532" "Essay Structure" %}}
+- {{% resource_link "3752975f-b7cf-414d-b190-bc4499220afb" "Developing a Thesis" %}}
+- {{% resource_link "3a4514cd-2d03-42ea-af85-0839ac299eda" "Beginning the Academic Essay" %}}
+- {{% resource_link "713e415d-9764-4e47-a7e3-a8c9d69ec878" "Outlining" %}}
+- {{% resource_link "84ad8883-7833-4f1b-94a5-fa90a5a23197" "Counterargument" %}}
+- {{% resource_link "cd66d704-8f52-4df9-8810-505be21d01f4" "Summary" %}}
+- {{% resource_link "cbf2c73d-e0d2-4ca1-a316-c29c547e3c2a" "How to Write a Comparative Analysis" %}}
+- {{% resource_link "5ea44259-bbcf-42b3-b7da-1603c71eeb80" "Conclusions" %}}
+- {{% resource_link "fd2fa5da-8519-46c3-a508-4f52a00bca6b" "Revising the Draft" %}}
 
 ## Assignment 1 ({{% resource_link "b4628de5-0e6d-56f8-4b9a-10bc95177ecd" "PDF" %}})
 
